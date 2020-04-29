@@ -5,9 +5,7 @@ Pytorch based custom NN and tensorflow based MTCCNN face detection algorithm , M
 
 This repo includes the following code files:
 
-1)python notebook implmentation of pytorch Custom Neural Network
-2)MTTCCN face detection algorithm (using MTCCNN library).
-3)Complete merged code using file 1 and 2 for real time mask detection
+1)Complete notebook code for implmentation of pytorch Custom Neural Network and MTTCCN face detection algorithm ( in tensorflow using MTCCNN library).
 
 
 
